@@ -1,0 +1,1 @@
+The program asks the user for a name and a random number (turned into a float value). After this it will print the user's name and showing their transformed number. The transformed number is obtained through the inputted number multiplied by 1.23
